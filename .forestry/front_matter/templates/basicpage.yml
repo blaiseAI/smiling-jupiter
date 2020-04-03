@@ -9,9 +9,10 @@ fields:
   name: slug
   label: Slug
 pages:
-- exampleSite/content/contact.pt-br.md
-- exampleSite/content/projects.md
-- exampleSite/content/projects.pt-br.md
-- exampleSite/content/contact.md
 - exampleSite/content/about.md
 - exampleSite/content/about.pt-br.md
+- exampleSite/content/contact.md
+- exampleSite/content/contact.pt-br.md
+- exampleSite/content/forestry-cms-blocks-field-demo.md
+- exampleSite/content/projects.md
+- exampleSite/content/projects.pt-br.md
